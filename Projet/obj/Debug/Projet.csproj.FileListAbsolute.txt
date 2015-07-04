@@ -24,3 +24,16 @@ D:\Szkoła\C# XAML\Projet\Projet\obj\Debug\Projet_MarkupCompile.cache
 D:\Szkoła\C# XAML\Projet\Projet\obj\Debug\Projet.g.resources
 D:\Szkoła\C# XAML\Projet\Projet\obj\Debug\Projet.Properties.Resources.resources
 D:\Szkoła\C# XAML\Projet\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
+D:\C# Projects\Projet\bin\Debug\Projet.exe.config
+D:\C# Projects\Projet\obj\Debug\Projet.exe
+D:\C# Projects\Projet\obj\Debug\Projet.pdb
+D:\C# Projects\Projet\bin\Debug\Projet.exe
+D:\C# Projects\Projet\bin\Debug\Projet.pdb
+D:\C# Projects\Projet\obj\Debug\Projet.csprojResolveAssemblyReference.cache
+D:\C# Projects\Projet\obj\Debug\MainWindow.baml
+D:\C# Projects\Projet\obj\Debug\MainWindow.g.cs
+D:\C# Projects\Projet\obj\Debug\App.g.cs
+D:\C# Projects\Projet\obj\Debug\Projet_MarkupCompile.cache
+D:\C# Projects\Projet\obj\Debug\Projet.g.resources
+D:\C# Projects\Projet\obj\Debug\Projet.Properties.Resources.resources
+D:\C# Projects\Projet\obj\Debug\Projet.csproj.GenerateResource.Cache
